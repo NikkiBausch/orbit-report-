@@ -1,0 +1,29 @@
+.sortable {
+    cursor: pointer;
+    color: 	#00fa9a;
+}
+
+.warning {
+    background-color:#9400d3;
+}
+
+table { 
+ 
+color: #00ced1;
+  border-radius: 5px;
+  overflow: hidden;
+  margin: 12px 0;
+  min-width: 300px;
+    background: #faf0e6;
+}
+
+.header-row {
+    background: #ccb7ae;
+    color: #00FA9A
+}
+
+th, td {
+    text-align: center;
+    margin: 5px 10px;
+    padding: 6px;
+}
